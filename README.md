@@ -303,9 +303,6 @@ AtliQ-Business-Insights-360/
 │   ├── marketing-view.png
 │   └── supply-chain-view.png
 │
-├── dashboard/
-│   └── AtliQ_Business_Insights_360.pbix
-│
 ├── documentation/
 │   └── business_insights_360.pdf
 │
